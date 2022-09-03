@@ -11,9 +11,10 @@ int main(int argc, char **argv)
         printf("Enter Num1: ");
         scanf("%d", &num1);
 
-        printf("Enter Num2: ");argv
+        printf("Enter Num2: ");
         scanf("%d", &num2);
     }
+
     else
     {
 
