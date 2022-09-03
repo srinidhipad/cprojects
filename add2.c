@@ -7,10 +7,11 @@ int main(int argc, char **argv)
 
     if (argc < 3)
     {
+        printf("This program adds 2 numbers \n");
         printf("Enter Num1: ");
         scanf("%d", &num1);
 
-        printf("Enter Num2: ");
+        printf("Enter Num2: ");argv
         scanf("%d", &num2);
     }
     else
